@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+
+
+ul {
+    font-family: "Josefin Sans";
+    font-size: 1.2em;}
+p {
+  font-family: 'Josefin Sans';
+  font-size: 16px;
+  font-weight: 300;
+  font-style: normal;
+  line-height: 1.42;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Condensed'; 
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 1.42;
+}
+
