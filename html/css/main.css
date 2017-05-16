@@ -68,6 +68,31 @@ ul li a {
     width: 1000px;
 }
 
+.links { 
+    border: 2px solid #fec70a;
+    width: 90px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.rechts 
+{ 
+    border: 2px solid #fec70a;
+    width: 90px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 440px;
+}
+
+.rechts2
+{ 
+    border: 2px solid #fec70a;
+    width: 90px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 510px;
+}
+
 .huisstijl { 
     width: 160%;
 }
@@ -78,6 +103,7 @@ ul li a {
 .brommer { 
     width: 100%;
 }
+
 .dieren { 
     width: 102%;
 }
@@ -332,4 +358,11 @@ img{
 .tekening { 
     height: 370px; 
     width: 379px;
+}
+
+.overhetproject { 
+  background-color: #f8f7f7;
+    height: 230px;
+    width: 1000px;
+    padding: 35px;
 }
