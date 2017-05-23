@@ -1,5 +1,5 @@
 .nav {
-    margin-bottom: 55px ;
+    margin-bottom: 55px;
 }
 
 ul {
@@ -18,51 +18,49 @@ ul li {
 ul li a {
     display: block;
     text-align: right;
-    padding:45px 45px 45px 0px;
+    padding: 45px 45px 45px 0px;
     color: black;
     text-decoration: none;
     border-bottom: transparent solid 1px;
     padding-bottom: 5px;
 }
 
-.footer 
-{
+.footer {
     margin-top: 200px;
     color: white;
     background-color: #fec70a;
     height: 150px;
 }
 
-.logo { 
+.logo {
     float: left;
     padding-left: 35px;
     margin-right: 25px;
     margin-top: 23px;
-    width: 300px; 
+    width: 300px;
     height: 170px;
 }
 
- ul a:hover {
+ul a:hover {
     color: black;
     border-bottom: black solid 1px;
 }
 
-.naviator { 
+.naviator {
     background-color: #f8f7f7;
     padding: 30px;
     padding-right: 30px;
     width: 1000px;
 }
 
-.links { 
+.links {
     border: 2px solid #fec70a;
     width: 90px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
-.rechts 
-{ 
+.rechts {
     border: 2px solid #fec70a;
     width: 90px;
     margin-top: 20px;
@@ -70,8 +68,7 @@ ul li a {
     margin-left: 440px;
 }
 
-.rechts2
-{ 
+.rechts2 {
     border: 2px solid #fec70a;
     width: 90px;
     margin-top: 20px;
@@ -79,147 +76,176 @@ ul li a {
     margin-left: 510px;
 }
 
-.huisstijl { 
-    width: 160%;
-}
-
-.fotohome { 
-    width: 1000px;
-}
-.brommer { 
+.huisstijlgroen {
     width: 100%;
 }
 
-.dieren { 
-    width: 102%;
+.fotohome {
+    width: 1000px;
 }
 
+.brommer {
+    width: 100%;
+}
+
+.dieren {
+    width: 102%;
+}
 
 .kaart {
     width: 90%;
 }
-.wenskaart { 
-    width: 100%;
-}
-.letter { 
-    width: 100%;
-}
-.robot { 
-    width: 100%;
-}
-.vogel { 
+
+.wenskaart {
     width: 100%;
 }
 
-.mds { 
+.letter {
     width: 100%;
 }
-.boek { 
+
+.robot {
     width: 100%;
 }
-.logoc { 
+
+.vogel {
+    width: 100%;
+}
+
+.mds {
+    width: 100%;
+}
+
+.boek {
+    width: 100%;
+}
+
+.logoc {
     width: 100%;
 }
 
 * {
-	margin:0;
-	padding:0;
-	box-sizing:border-box;
-	-webkit-box-sizing:border-box;
-	-moz-box-sizing:border-box;
-	-webkit-font-smoothing:antialiased;
-	-moz-font-smoothing:antialiased;
-	-o-font-smoothing:antialiased;
-	font-smoothing:antialiased;
-	text-rendering:optimizeLegibility;
-}
-.container {
-	max-width:1200px;
-	width:100%;
-	margin:0 auto;
-	position:relative;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    -o-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
 }
 
-#contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea, #contact button[type="submit"] { font:400 12px/16px "Open Sans", Helvetica, Arial, sans-serif; }
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+
+#contact input[type="text"],
+#contact input[type="email"],
+#contact input[type="tel"],
+#contact input[type="url"],
+#contact textarea,
+#contact button[type="submit"] {
+    font: 400 12px/16px "Open Sans", Helvetica, Arial, sans-serif;
+}
 
 #contact {
-	background:#F9F9F9;
-	padding:25px;
-	margin:20px 0;
+    background: #F9F9F9;
+    padding: 25px;
+    margin: 20px 0;
 }
 
 fieldset {
-	border: medium none !important;
-	margin: 0 0 10px;
-	min-width: 100%;
-	padding: 0;
-	width: 100%;
+    border: medium none !important;
+    margin: 0 0 10px;
+    min-width: 100%;
+    padding: 0;
+    width: 100%;
 }
 
-#contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea {
-	width: 467px;
-	border:1px solid #CCC;
-	background:#FFF;
-	margin:0 0 5px;
-	padding:10px;
-}
-
-#contact textarea { 
-    width:945px;
-	border:1px solid #CCC;
-	background:#FFF;
-	margin:0 0 5px;
-	padding:10px;
-}
-
-#contact input[type="text"]:hover, #contact input[type="email"]:hover, #contact input[type="tel"]:hover, #contact input[type="url"]:hover, #contact textarea:hover {
-	-webkit-transition:border-color 0.3s ease-in-out;
-	-moz-transition:border-color 0.3s ease-in-out;
-	transition:border-color 0.3s ease-in-out;
-	border:1px solid #AAA;
+#contact input[type="text"],
+#contact input[type="email"],
+#contact input[type="tel"],
+#contact input[type="url"],
+#contact textarea {
+    width: 467px;
+    border: 1px solid #CCC;
+    background: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
 }
 
 #contact textarea {
-	height:100px;
-	max-width:100%;
-  resize:none;
+    width: 945px;
+    border: 1px solid #CCC;
+    background: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+}
+
+#contact input[type="text"]:hover,
+#contact input[type="email"]:hover,
+#contact input[type="tel"]:hover,
+#contact input[type="url"]:hover,
+#contact textarea:hover {
+    -webkit-transition: border-color 0.3s ease-in-out;
+    -moz-transition: border-color 0.3s ease-in-out;
+    transition: border-color 0.3s ease-in-out;
+    border: 1px solid #AAA;
+}
+
+#contact textarea {
+    height: 100px;
+    max-width: 100%;
+    resize: none;
 }
 
 #contact button[type="submit"] {
-	cursor:pointer;
-	width:200px;
-	border:none;
-	background:#fec70a;
-	color:#FFF;
-	margin:0 0 5px;
-	padding:10px;
-	font-size:15px;
+    cursor: pointer;
+    width: 200px;
+    border: none;
+    background: #fec70a;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
 }
 
 #contact button[type="submit"]:hover {
-	opacity: 0.7;
-	-webkit-transition:background 0.3s ease-in-out;
-	-moz-transition:background 0.3s ease-in-out;
-	transition:background-color 0.3s ease-in-out;
+    opacity: 0.7;
+    -webkit-transition: background 0.3s ease-in-out;
+    -moz-transition: background 0.3s ease-in-out;
+    transition: background-color 0.3s ease-in-out;
 }
 
-#contact button[type="submit"]:active { box-shadow:inset 0 1px 3px rgba(0, 0, 0, 0.5); }
-
-#contact input:focus, #contact textarea:focus {
-	outline:0;
-	border:1px solid #999;
+#contact button[type="submit"]:active {
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5);
 }
+
+#contact input:focus,
+#contact textarea:focus {
+    outline: 0;
+    border: 1px solid #999;
+}
+
 ::-webkit-input-placeholder {
- color:#888;
+    color: #888;
 }
+
 :-moz-placeholder {
- color:#888;
+    color: #888;
 }
+
 ::-moz-placeholder {
- color:#888;
+    color: #888;
 }
+
 :-ms-input-placeholder {
- color:#888;
+    color: #888;
 }
 
 .fa {
@@ -239,74 +265,75 @@ fieldset {
 }
 
 .fa-envelope {
-  color: #fec70a;
-  background: white;
-
+    color: #fec70a;
+    background: white;
 }
 
 .fa-phone {
-  color: #fec70a;
-  background: white;
+    color: #fec70a;
+    background: white;
 }
+
 .fa-facebook {
-  color: #fec70a;
-  background: white;
+    color: #fec70a;
+    background: white;
 }
 
 .fa-twitter {
-  color: #fec70a;
-  background: white;
+    color: #fec70a;
+    background: white;
 }
 
 .fa-instagram {
-  color: #fec70a;
-  background: white;
+    color: #fec70a;
+    background: white;
 }
 
-.gelerondjes { 
+.gelerondjes {
     text-align: center;
 }
-img{
-    padding: 0;
 
+img {
+    padding: 0;
 }
-.computer { 
+
+.computer {
     height: 300px;
     width: 400px;
 }
 
-.wiezijnwe { 
+.wiezijnwe {
     background-color: #f8f7f7;
     height: 300px;
     width: 672px;
     padding: 35px;
-    }
+}
 
-.watdoenwe { 
+.watdoenwe {
     background-color: #f8f7f7;
     height: 300px;
     width: 600px;
     padding: 35px;
     text-align: right;
-    }
+}
 
-.tafel { 
+.tafel {
     height: 300px;
     width: 450px;
 }
 
-.pc { 
-    height: 300px; 
+.pc {
+    height: 300px;
     width: 600px;
 }
 
-.meisje { 
-    height: 300px; 
+.meisje {
+    height: 300px;
     width: 600px;
 }
 
-.quote { 
-    font-family: 'Roboto Condensed'; 
+.quote {
+    font-family: 'Roboto Condensed';
     font-size: 30px;
     font-weight: 500;
     background-color: #f8f7f7;
@@ -320,21 +347,21 @@ img{
     width: 600px;
 }
 
-.huisstijlontwerp { 
+.huisstijlontwerp {
     background-color: #f8f7f7;
     height: 300px;
     width: 672px;
     padding: 35px;
 }
 
-.technisch { 
+.technisch {
     background-color: #f8f7f7;
     height: 300px;
     width: 672px;
     padding: 35px;
 }
 
-.websiteontwerp { 
+.websiteontwerp {
     background-color: #f8f7f7;
     height: 300px;
     width: 672px;
@@ -342,18 +369,18 @@ img{
     text-align: right;
 }
 
-.website { 
+.website {
     height: 300px;
     width: 350px;
 }
 
-.tekening { 
-    height: 370px; 
+.tekening {
+    height: 300px;
     width: 379px;
 }
 
-.overhetproject { 
-  background-color: #f8f7f7;
+.overhetproject {
+    background-color: #f8f7f7;
     height: 230px;
     width: 1000px;
     padding: 35px;
